@@ -10,7 +10,7 @@ My hackintosh configuration is working in MacOS 12.1 :
 * **Storage (Windows):** 250GB SATA
 * **Video Card:** Gigabyte AMD RX 6600-XT
 
-If your Motherboard is not the same B550 check if your RJ45 port and jack port is Realtek and now normaly it's good
+If your Motherboard is not the same B550 or B450 check if your RJ45 port and jack port is Realtek and now normaly it's good
 
 ✅ **Working :**
 
