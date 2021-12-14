@@ -13,9 +13,11 @@ My hackintosh configuration is working in MacOS 12.1 :
 If your Motherboard is not the same B550 check if your RJ45 port and jack port is Realtek and now normaly it's good
 
 ✅ **Working :**
+
 All (include iService like imessage, icloud...)
 
 ❌ **Not Working :**
+
 Bluetooth and airdrop (for the moment, we need new update for ACPI bluetooth).
 
 Bios settings :
@@ -25,9 +27,11 @@ Restore to default settings and change like except "above 4G decoding to OFF":
 
 ## Installation :
 **For everyone of you :**
+
 Install [python3](https://www.python.org/downloads/ "python3")
 Download [Propertree](https://github.com/corpnewt/ProperTree "Propertree") with download ZIP
 ![image](https://user-images.githubusercontent.com/17613028/145912137-d2ee52d7-760a-45a6-856f-f3bed810654c.png)
+
 open terminal and type cd and drag and drop folder "Scripts" inside terminal, press enter and now type : python3 buildapp-select.command
 3 like me ![image](https://user-images.githubusercontent.com/17613028/145912648-151dd5f8-863e-4266-a166-44306bb93119.png)
 
@@ -43,24 +47,31 @@ Do not forget to save your file
 Check next things in Installation, it's maybe for you and after Go to USB EFI SETTINGS part of documentation
 
 **For SATA SSD INSTALLATION :**
+
 Working with sata SSD, just remove the line >
 ![image](https://user-images.githubusercontent.com/17613028/145910303-7ec1593c-1af7-4a2e-a951-0f325e5886f7.png)
 
 Do not forget to save your file
 
 **For non WIFI MOTHERBOARD :**
+
 Remove AirportItlwm.kext and itlwm.kext  ![image](https://user-images.githubusercontent.com/17613028/145911904-08751532-eca4-4f2e-8fdd-74984eba6bf7.png)
+
 Open Propertree, open config.plist and Press CMD + R go inside folder name OC and click choose
 ![image](https://user-images.githubusercontent.com/17613028/145913301-b62ddcc1-f7a0-4d5d-8225-01c6b457dba8.png)
+
 And now do CMD + SHIFT + R select again folder name OC and click choose
 
 Do not forget to save your file
 
 **For B450 Motherboard :**
+
 Remove SSDT-CPUR.aml
 ![image](https://user-images.githubusercontent.com/17613028/145916554-06b24c6b-d3aa-4b9c-87ed-a6a2930ec570.png)
+
 Open Propertree, open config.plist and Press CMD + R go inside folder name OC and click choose
 ![image](https://user-images.githubusercontent.com/17613028/145913301-b62ddcc1-f7a0-4d5d-8225-01c6b457dba8.png)
+
 And now do CMD + SHIFT + R select again folder name OC and click choose
 Turn ON SetupVirtualMap inside :
 ![image](https://user-images.githubusercontent.com/17613028/145916805-f075d77e-7234-481a-a80e-d8684e322ec1.png)
@@ -68,30 +79,41 @@ Turn ON SetupVirtualMap inside :
 Do not forget to save your file
 
 **For RX 480 / RX 580 GPU**
+
 Remove "agdpmod=pikera"
 ![image](https://user-images.githubusercontent.com/17613028/145915060-718005df-c23e-41bc-9756-b93db8c72fdf.png)
 
 Do not forget to save your file
 
 **USB EFI SETTINGS**
+
 Install MacOS Monterey on your USB KEY :
+
 https://www.youtube.com/watch?v=RJkiFJwzos4
+
 Download MountEFI ZIP (like we did with Propertree)
+
 Open the folder MountEFI-update
+
 Do right click to open MountEFI.command
+
 Select USB installer key
 ![image](https://user-images.githubusercontent.com/17613028/145914385-900d8481-ac65-4f3f-9870-8a1cb619d8da.png)
+
 Type your password
+
 And now go inside Finder > EFI and here place your folder EFI
 ![image](https://user-images.githubusercontent.com/17613028/145914475-82171215-c8ee-4289-8a44-31d0c7fb8b5e.png)
 
 If your MacOS run perfectly it's time to save this key in good place but before we need to copy EFI Folder where is now inside your USB key to your SSD to be ok to boot without usb, and in the futur, test your new EFI settings inside your SSD, not inside your USB, your USB is your backup EFI + Reinstall USB key
 
 To copy EFI folder to EFI SSD > Open MountEFI, open USB key + MacOS
+
 Now you have 2 EFI partition inside your Finder, copy EFI folder to empty partition EFI, try to restart without USB key
 
 
 **DEBUG :**
+
 Audio stop at 3:50: https://youtu.be/GXft2j0s4Gg
 
 Microphone Jack > impossible to work, buy USB one :(
@@ -111,5 +133,7 @@ Go inside PCIe, find your NVME SSD
 
 Copy device path
 ![image](https://user-images.githubusercontent.com/17613028/145917923-6bc78dad-ad6e-4eaa-9ef2-8fb293c1df85.png)
+
 Open config.plist with propertree and do like me but with your path
+
 ![image](https://user-images.githubusercontent.com/17613028/145918147-db118db0-7726-40aa-8726-b9d2861b6b08.png)
