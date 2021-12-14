@@ -28,6 +28,8 @@ Restore to default settings and change like except "above 4G decoding to OFF":
 ## Installation :
 **For everyone of you :**
 
+Download in ZIP my github to have my EFI by clicking green button "code" and download zip
+
 Install [python3](https://www.python.org/downloads/ "python3")
 Download [Propertree](https://github.com/corpnewt/ProperTree "Propertree") with download ZIP
 ![image](https://user-images.githubusercontent.com/17613028/145912137-d2ee52d7-760a-45a6-856f-f3bed810654c.png)
