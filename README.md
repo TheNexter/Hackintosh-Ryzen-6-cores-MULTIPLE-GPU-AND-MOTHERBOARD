@@ -21,7 +21,7 @@ All (include iService like imessage, icloud...)
 Bluetooth and airdrop (for the moment, we need new update for ACPI bluetooth).
 
 Bios settings :
-Restore to default settings and change like except "above 4G NEED TO BE TURN ON + RESIZE BAR ON":
+Restore to default settings and above 4G NEED TO BE TURN ON + RESIZE BAR ON:
 ![image](https://user-images.githubusercontent.com/17613028/145913588-a78efc7a-dfaf-47d7-b35d-1b25f42d8231.png)
 
 
@@ -119,8 +119,6 @@ Now you have 2 EFI partition inside your Finder, copy EFI folder to empty partit
 Audio stop at 3:50: https://youtu.be/GXft2j0s4Gg
 
 Microphone Jack > impossible to work, buy USB one :(
-
-Bluetooth > You don't wan't to wait patch or tired to wait > buy USB dongle ASUS USB-BT400
 
 SSD NVME is external > Be sure you do not have remove "PciRoot(0x0)/Pci(0x1,0x1)/Pci(0x0,0x0)" inside your config.plist > DeviceProperties > Add > PciRoot(0x0)/Pci(0x1,0x1)/Pci(0x0,0x0) > built-in
 ![image](https://user-images.githubusercontent.com/17613028/145917296-9b49f957-424c-4e38-bb6c-0c9d2d0a0e71.png)
