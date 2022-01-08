@@ -21,14 +21,14 @@ All (include iService like imessage, icloud...)
 Bluetooth and airdrop (for the moment, we need new update for ACPI bluetooth).
 
 Bios settings :
-Restore to default settings and change like except "above 4G decoding to OFF":
+Restore to default settings and change like except "above 4G NEED TO BE TURN ON + RESIZE BAR ON":
 ![image](https://user-images.githubusercontent.com/17613028/145913588-a78efc7a-dfaf-47d7-b35d-1b25f42d8231.png)
 
 
 ## Installation :
 **For everyone of you :**
 
-Download in ZIP my github to have my EFI by clicking green button "code" and download zip
+Download latest version on my github to have my EFI
 
 Install [python3](https://www.python.org/downloads/ "python3")
 Download [Propertree](https://github.com/corpnewt/ProperTree "Propertree") with download ZIP
