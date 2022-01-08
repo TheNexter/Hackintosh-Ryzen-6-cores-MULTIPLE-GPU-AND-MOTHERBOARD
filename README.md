@@ -14,11 +14,11 @@ If your Motherboard is not the same B550 or B450 check if your RJ45 port and jac
 
 ✅ **Working :**
 
-All (include iService like imessage, icloud...)
+All (include iService like imessage, icloud, wifi...)
 
 ❌ **Not Working :**
 
-Bluetooth and airdrop (for the moment, we need new update for ACPI bluetooth).
+Airdrop and Microphone jack
 
 Bios settings :
 Restore to default settings and above 4G NEED TO BE TURN ON + RESIZE BAR ON:
