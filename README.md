@@ -14,7 +14,7 @@ If your Motherboard is not the same B550 or B450 check if your RJ45 port and jac
 
 ✅ **Working :**
 
-All (include iService like imessage, icloud, wifi...)
+All (include WIFI and bluetooth + iService like imessage, icloud, facetime...)
 
 ❌ **Not Working :**
 
