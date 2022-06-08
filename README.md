@@ -1,6 +1,8 @@
 # Hackintosh Opencore for Ryzen 3600 WITH B550 / B450 + AMD RX 6600-XT / 6800 / 6800XT / RX 6900XT / RX 480 / RX 580
 My hackintosh configuration is working in MacOS 12.2.1 (don't update to 12.3 for the moment) : 
 
+If I have time, I am gonna update to the latest version of opencore 0.8.1 this week
+
 ## My default Build
 
 * **CPU:** AMD Ryzen 3600
