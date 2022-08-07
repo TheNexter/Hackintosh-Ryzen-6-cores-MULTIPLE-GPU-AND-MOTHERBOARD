@@ -1,7 +1,7 @@
 # Hackintosh Opencore for Ryzen 3600 WITH B550 / B450 + AMD RX 6600-XT / 6800 / 6800XT / RX 6900XT / RX 480 / RX 580
 My hackintosh configuration is working in MacOS 12.2.1 (don't update to 12.3 for the moment) : 
 
-NEW WIKI IS AVAIBLE, i am gonna do the update of the EFI
+Ok New EFI work in some part, i try to update my mac to latest version > impossible to restart, i am gonna try this night again with another idea. I am gonna publish the update this week if everything work
 
 ## My default Build
 
