@@ -5,6 +5,8 @@ OKKKKKK new EFI is here for you
 i upgrade from 12.2.1 to latest > 12.5 without any problem, but please DO a timemachine backup before, your data is important
 TEST EFI INSIDE YOUR SSD NOT ON YOU EXISTING USB STICK, because if you have problem you are sure you can reinstall
 
+EFI is ready for linux, macos and windows
+
 ## My default Build
 
 * **CPU:** AMD Ryzen 3600
