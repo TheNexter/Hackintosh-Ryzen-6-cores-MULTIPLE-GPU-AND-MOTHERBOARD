@@ -1,5 +1,5 @@
 # Hackintosh Opencore for Ryzen 3600 WITH B550 / B450 + AMD RX 6600-XT / 6800 / 6800XT / RX 6900XT / RX 480 / RX 580
-My hackintosh configuration is working in MacOS 12.2.1 (don't update to 12.3 for the moment) : 
+My hackintosh configuration is working in MacOS 12.5 (don't update for the moment if you see update) : 
 
 OKKKKKK new EFI is here for you
 i upgrade from 12.2.1 to latest > 12.5 without any problem, but please DO a timemachine backup before, your data is important
