@@ -1,5 +1,7 @@
 # Hackintosh Opencore for Ryzen 3600 WITH B550 / B450 + AMD RX 6600-XT / 6800 / 6800XT / RX 6900XT / RX 480 / RX 580
-My hackintosh configuration is working in MacOS 12.5.1 (don't update to 12.6 for the moment, bluetooth have problem in 12.6) : 
+My hackintosh configuration is working in MacOS 12.5.1 (don't update to 12.6 for the moment, bluetooth have problem in 12.6) :
+
+I have alot of work, i am gonna update opencore in mid december
 
 EFI is ready for linux, macos and windows
 
