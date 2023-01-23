@@ -1,7 +1,7 @@
 # Hackintosh Opencore for Ryzen 3600 WITH B550 / B450 + AMD RX 6600-XT / 6800 / 6800XT / RX 6900XT / RX 480 / RX 580
 My hackintosh configuration is working in MacOS 12.5.1 (don't update to 12.6 for the moment, bluetooth have problem in 12.6) :
 
-I have alot of work, i am gonna update opencore in mid december
+Ok, i have install ventura, no wifi, no bluetooth, reboot are weird can take 2/3/4 reboots until boot correctly, i am waiting more to provide you a stable ventura EFI, stay in monterey 12.5.1, most stable for the moment, no new feature in this new version, useless to update exept to get bug.
 
 EFI is ready for linux, macos and windows
 
