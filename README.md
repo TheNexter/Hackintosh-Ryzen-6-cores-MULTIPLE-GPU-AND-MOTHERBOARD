@@ -1,5 +1,4 @@
 # Hackintosh Opencore for Ryzen 3600 WITH B550 / B450 + AMD RX 6600-XT / 6800 / 6800XT / RX 6900XT / RX 480 / RX 580
-My hackintosh configuration is working in MacOS 12.5.1 (don't update to 12.6 for the moment, bluetooth have problem in 12.6) :
 
 I have publish my lastest ever EFI for 13.2 Ventura. I stop to update this repo guy because i sell my computer.
 If anyone of you can make a fork and continue to maintain EFI sometime i am gonna reference your repo just here.
